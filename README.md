@@ -4,5 +4,6 @@
 -- implemented programs even odd. 
 
 -- implemented programs prime composite. 
+
 -- implemented swich case statement
 
