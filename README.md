@@ -3,5 +3,6 @@
 ## 11 july
 -- implemented programs even odd. 
 
--- implemented programs prime composite
+-- implemented programs prime composite. 
+-- implemented swich case statement
 
