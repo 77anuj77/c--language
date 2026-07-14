@@ -5,7 +5,6 @@ int main() {
     int choice, n, i;
     int t1 = 0, t2 = 1, nextTerm;
     double num, result;
-
     printf("Menu:\n");
     printf("1. Generate Fibonacci Series\n");
     printf("2. Find Square Root\n");
