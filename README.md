@@ -12,3 +12,4 @@
 -- Fabonnacci series and square root of a given number using switch statement 
 # 19 July
 -- imlepented the algorithm of copy, length, reversing of  a string
+-- Switch case for combining all these functions
