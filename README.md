@@ -1,12 +1,12 @@
-# july 
+# 7 July 
 - added 1m
 # 8 july
 -  added ass1_local
-## 11 july
+# 11 july
 - implemented programs even odd. 
 - implemented programs prime composite. 
 - implemented swich case statement 
-## 13 July
+# 13 July
 - implemented even prime using switch with diffrent algorithm 
 - logic behing the composite number
 # 14 July 
