@@ -16,3 +16,4 @@
 - Switch case for combining all these functions
 # 21 July 
 - Implemented concatination of string
+- implemented length of a string
