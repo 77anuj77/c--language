@@ -18,3 +18,5 @@
 - Implemented concatination of string
 - implemented length of a string
 - Concatination of a string
+- checking palindrone of a string
+- 
