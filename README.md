@@ -19,4 +19,4 @@
 - implemented length of a string
 - Concatination of a string
 - checking palindrone of a string
-- 
+- compairiing the two strings
