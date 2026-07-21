@@ -17,3 +17,4 @@
 # 21 July 
 - Implemented concatination of string
 - implemented length of a string
+- Concatination of a string
