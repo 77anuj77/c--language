@@ -14,3 +14,5 @@
 # 19 July
 - imlepented the algorithm of copy, length, reversing of  a string
 - Switch case for combining all these functions
+# 21 July 
+- Implemented concatination of string
