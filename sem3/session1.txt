@@ -1,0 +1,27 @@
+exit-0 and exit-1
+
+a dynamicata structure is a a specialized way of organizing and managing data in memory so that it can be accessed processed and modified efficiently
+in c programming, data structures are implemented using arrys, pointers, structures, and dynamic memory allocation 
+why Data structures-->
+to organise large amounts of data efficiently.
+to optimise memory usage
+to make programs faster and easier to maintain 
+to solve complex problems efficiently
+
+basic operation on data structures
+insertion , deletion , traversal- visit each element, searching, sorting, updating
+
+types of data structures 
+----Linear------
+Array, linked list, stack, Queue
+----non-linear----
+tree, graph
+
+classification of Data Structures 
+-----primitive-----
+int char, float, double, bool, pointer etc.
+-----non-primitive-----
+--linear--
+array, linked list, stack , Queue
+--non-linear--
+tree, graph
